@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1191
     wikipedia: http://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45961#South-America-Observations-and-ImpressionsNew-edition-corrected-and-revised
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2014-06-14'
 gutenberg_type: Text
