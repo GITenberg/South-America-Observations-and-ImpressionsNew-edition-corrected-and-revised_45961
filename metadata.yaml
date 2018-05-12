@@ -1,0 +1,29 @@
+_repo: South-America-Observations-and-ImpressionsNew-edition-corrected-and-revised_45961
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45961-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bryce, James Bryce, Viscount
+    alias: Bryce, Viscount
+    birthdate: 1838
+    deathdate: 1922
+    gutenberg_agent_id: '1191'
+    url: http://www.gutenberg.org/2009/agents/1191
+    wikipedia: http://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2014-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South America -- Description and travel'
+- !lcc 'F2201'
+title: "South America: Observations and Impressions\r\nNew edition corrected and revised"
+url: http://www.gutenberg.org/ebooks/45961
